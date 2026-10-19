@@ -201,7 +201,7 @@ Worked on website sections, awards presentation, responsive styling and interfac
 <a href="https://github.com/TruptiMayee-Dash">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://truptimayee-dash-portfolio-2026.vercel.app/">
+<a href="https://truptimayee-dash.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
