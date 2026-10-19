@@ -26,7 +26,7 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Trupti Dash**, a Software Engineer and MCA graduate passionate about building modern, responsive, and user-friendly applications.
+Hi! I'm **Truptimayee Dash**, a Software Engineer and MCA graduate passionate about building modern, responsive, and user-friendly applications.
 
 I enjoy working across frontend development and Java-based application development, learning new technologies, and transforming ideas into practical software solutions.
 
