@@ -32,8 +32,8 @@ I enjoy working across frontend development and Java-based application developme
 
 - 🎓 **Education:** Master of Computer Applications (MCA), 2024
 - 💼 **Professional experience:** Software engineering and web development
-- ☕ **Backend:** Java, OOP, Collections, JDBC, Servlets, JSP and Spring Boot fundamentals
-- 🎨 **Frontend:** Angular, React, TypeScript, JavaScript, HTML5, CSS3 and Bootstrap
+- ☕ **Backend:** Java, OOP, Collections, JDBC, Servlets, JSP and Spring Boot
+- 🎨 **Frontend:** Angular,TypeScript, JavaScript, HTML5, CSS3 and Bootstrap
 - 🗄️ **Databases:** PostgreSQL, MySQL, Oracle SQL
 - 🧰 **Tools:** Git, GitHub, VS Code, Eclipse, IntelliJ IDEA, Postman and Figma
 - 🚀 **Currently exploring:** Advanced Java, Spring Boot, Microservices and Generative AI
