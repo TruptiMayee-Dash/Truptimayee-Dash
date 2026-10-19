@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,35:312E81,70:6D28D9,100:06B6D4&height=220&section=header&text=TRUPTI%20DASH&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%7C%20Java%20Full%20Stack%20Developer&descSize=17&descAlignY=58&animation=twinkling" width="100%" alt="Animated profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,35:312E81,70:6D28D9,100:06B6D4&height=220&section=header&text=TRUPTIMAYEE%20DASH&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%7C%20Java%20Full%20Stack%20Developer&descSize=17&descAlignY=58&animation=twinkling" width="100%" alt="Animated profile banner"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Java+%7C+Spring+Boot+%7C+Full+Stack;Angular+%7C+React+%7C+TypeScript;Building+Responsive+Web+Applications;Exploring+Generative+AI+%26+Agentic+AI;Turning+Ideas+Into+Real+Projects" alt="Animated typing introduction"/>
