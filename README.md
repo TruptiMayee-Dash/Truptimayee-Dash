@@ -114,7 +114,7 @@ I believe in writing clean code, improving my technical skills consistently, and
 
 A personal portfolio showcasing my technical skills, projects, and professional journey with a modern interface and animations.
 
-🔗 [View Portfolio](https://truptimayee-dash-portfolio-2026.vercel.app/)
+🔗 [View Portfolio](https://truptimayee-dash.github.io/)
 
 🔗 [View Portfolio Repository](https://github.com/TruptiMayee-Dash/Truptimayee-Dash-Portfolio-2026)
 
